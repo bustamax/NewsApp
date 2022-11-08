@@ -1,6 +1,6 @@
 # NewsApp
 
-This is news app. In app you can get list of news: 
+This is news app. In app you can get list of news, or you can slide it: 
 <p align="center">
   <img src="https://github.com/bustamax/Images/blob/main/NewsApp/NewsApp1.png" height="400" title="hover text">
 </p>
